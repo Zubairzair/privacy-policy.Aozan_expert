@@ -94,7 +94,7 @@
       </p>
       <ul>
         <li><strong>Developer:</strong> Muhammad Zubair Zair</li>
-        <li><strong>Email:</strong> your-email@example.com</li>
+        <li><strong>Email:</strong> hafizzubair279@gmail.com</li>
       </ul>
     </section>
 
